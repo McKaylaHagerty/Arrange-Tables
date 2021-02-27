@@ -1,0 +1,16 @@
+﻿Lab Report Date,Health District,Number of PCR Testing Encounters,Number of Positive PCR Testing Encounters,Total Number of Testing Encounters,Total Number of Positive Testing Encounters,Percent of Positive PCR Tests,Percent of Total Tests were PCR Tests,7 day moving average percent of positive PCR tests,Percent of PCR tests that were positive between July 16 and 18,Masks: Frequently or Always
+7/16/2020,Arlington,495,26,574,34,0.05,0.86,,0.039230769,0.937
+7/16/2020,Central Shenandoah,357,17,381,18,0.05,0.94,,0.043846154,0.765
+7/16/2020,Chesapeake,561,68,586,68,0.12,0.96,0.137668381,0.135384615,0.862
+7/16/2020,Chesterfield,810,44,874,48,0.05,0.93,,0.072307692,0.865
+7/16/2020,Fairfax,1530,82,1922,111,0.05,0.8,,0.052307692,0.911
+7/16/2020,Hampton,242,29,249,31,0.12,0.97,,0.096153846,0.889
+7/16/2020,Henrico,511,46,567,48,0.09,0.9,,0.070769231,0.853
+7/16/2020,Norfolk,567,89,582,90,0.16,0.97,0.151963784,0.125384615,0.93
+7/16/2020,Peninsula,765,80,809,80,0.1,0.95,,0.076153846,0.917
+7/16/2020,Portsmouth,294,66,296,66,0.22,0.99,,0.183076923,0.859
+7/16/2020,Prince William,925,94,1066,108,0.1,0.87,,0.073076923,0.871
+7/16/2020,Richmond,258,23,298,24,0.09,0.87,,0.064615385,0.807
+7/16/2020,Roanoke,452,30,472,36,0.07,0.96,,0.061538462,0.812
+7/16/2020,Virginia Beach,1065,99,1119,106,0.09,0.95,0.119172531,0.108461538,0.88
+7/16/2020,Western Tidewater,526,41,534,42,0.08,0.99,,0.106153846,0.924
